@@ -1,0 +1,20 @@
+﻿KPI,Description
+CUST_360_DATA_REVENUE_ROAMING_FINANCE_REV_W1,Total financial revenue from roaming data services captured in the Customer 360 profile specifically for the Week 1 timeframe.
+CUST_360_DATA_REVENUE_ROAMING_FINANCE_REV_W1,Use Week 1 roaming data revenue to segment premium subscribers for international data pack promotions within the telecom billing system.
+CUST_360_DATA_REVENUE_ROAMING_FINANCE_REV_W1,Metric tracking the sum of roaming data revenue during Week 1 to evaluate subscriber spending patterns on the network.
+CUST_360_DATA_REVENUE_ROAMING_FINANCE_REV_W1,How much roaming data revenue did this subscriber generate during the Week 1 period according to the revenue assurance records?
+CUST_360_DATA_REVENUE_ROAMING_FINANCE_REV_W1,What was the customer's total roaming data revenue for Week 1 in the Customer 360 database?
+CUST_360_TOTAL_REVENUE_IDD_FINANCE_REV_M1,Total finance-recognized IDD revenue for Month 1 (M1) stored in the Customer 360 subscriber profile for billing reconciliation.
+CUST_360_TOTAL_REVENUE_IDD_FINANCE_REV_M1,Identify high-value international callers by analyzing total finance-recognized IDD revenue from the most recent month (M1) in the CRM.
+CUST_360_TOTAL_REVENUE_IDD_FINANCE_REV_M1,This metric calculates the total finance-validated revenue for IDD usage during Month 1 (M1) to segment Customer 360 profiles.
+CUST_360_TOTAL_REVENUE_IDD_FINANCE_REV_M1,Show me the total finance-recognized revenue for international direct dialing (IDD) during Month 1 (M1) from the billing system.
+CUST_360_TOTAL_REVENUE_IDD_FINANCE_REV_M1,What was the total finance-recognized IDD revenue for this customer in Month 1 (M1) according to Customer 360?
+CUST_360_VAS_REVENUE_FINANCE_REV_M3,This Customer 360 attribute captures finance-recognized revenue from Value-Added Services (VAS) specifically for the third most recent month (M3).
+CUST_360_VAS_REVENUE_FINANCE_REV_M3,Evaluate subscriber engagement with premium content by reviewing finance-validated VAS revenue from the Month 3 (M3) billing cycle.
+CUST_360_VAS_REVENUE_FINANCE_REV_M3,Analyze historical revenue trends by looking at finance-recognized VAS earnings from the Month 3 (M3) period in the subscriber profile.
+CUST_360_VAS_REVENUE_FINANCE_REV_M3,What is the total finance-recognized revenue from value-added services recorded in the billing system for Month 3 (M3)?
+CUST_360_VAS_REVENUE_FINANCE_REV_M3,Show the finance-recognized VAS revenue for the third most recent month (M3) from the Customer 360 database.
+CUST_360_AVG_DAYS_RECH,This Customer 360 metric calculates the average number of days between consecutive recharge events for a subscriber over a historical period.
+CUST_360_AVG_DAYS_RECH,Identify prepaid customer loyalty by monitoring the average days between recharge events in the billing system during a historical period.
+CUST_360_AVG_DAYS_RECH,Analyze the average days between recharge transactions to understand the typical top-up cadence for prepaid subscribers over a historical period.
+CUST_360_AVG_DAYS_RECH,What is the average number of days between recharge payments for a prepaid customer within the Customer 360 historical period?
